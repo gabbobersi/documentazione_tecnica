@@ -8,6 +8,7 @@ These docs were used alongside the development of a 2D game engine in Java.
 There is no index; instead, there are markdown files with titles, organized by topic.
 
 ### Collaborators
+(After December 14th, 2023, I'm the only contributor.)
 - [Me](https://github.com/gabbobersi)
 - [Alessio Guidotti](https://github.com/Artrosias)
 - [Francesco Castaldi](https://github.com/FrancescoCastaldi)
