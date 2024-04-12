@@ -1,3 +1,10 @@
+### Attenzione
+(12/04/2024)\
+Il git flow mostrato in questo documento, nonostante sia corretto e applicabile, non rappresenta una best-practice.\
+E' semplificato (mancano concetti come release branch, hotfix branch, tag, ...) ma comunque corretto.\
+
+Git flow più corrretto: [link](https://nvie.com/posts/a-successful-git-branching-model/)
+
 ### Generale
 Non esiste un git-flow condiviso mondiale.
 
